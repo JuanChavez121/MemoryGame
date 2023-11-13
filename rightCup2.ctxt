@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=rightCup2
+comment0.text=\n\ Write\ a\ description\ of\ class\ rightCup2\ here.\n\ \n\ @author\ (your\ name)\ \n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=
+comment1.target=rightCup2()
+comment2.params=world
+comment2.target=rightCup2(easyTable)
+comment3.params=
+comment3.target=void\ act()
+numComments=4
